@@ -1,4 +1,4 @@
-# Hospital-Emergency-Room-Dashboard
+# Hospital Emergency Room Dashboard Using Excel
 As part of my learning journey in interactive dashboard design, I created this project to analyze and visualize Emergency Room (ER) data. This dashboard helps monitor and interpret patient flow, admission status, departmental referrals, and wait time trends in a hospital ER setting.
 
  Project Highlights
